@@ -1,0 +1,8 @@
+{
+  "homepage": "https://JuliaPiassentini.github.io/To-do-list-App-en-React",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    // Existing scripts will remain intact but need to be copied from the current package.json
+  }
+}
